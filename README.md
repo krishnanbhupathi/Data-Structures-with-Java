@@ -24,4 +24,14 @@
 
 10. Write a program to input principal, time, and rate (P, T, R) from the user and find Simple Interest.
 
+### Heaps
+1. [Maximize sum of array after K negotions](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)
+2. [Minimum cost of ropes](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
+3. [Kth largest element in stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
+4. [Last stone weight](https://leetcode.com/problems/last-stone-weight/)
+5. [Top K Frequent elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
+6. [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+7. [Find median from data stream](https://leetcode.com/problems/find-median-from-data-stream/description/)
+8. [Merge K sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+
 ### _TBU_
