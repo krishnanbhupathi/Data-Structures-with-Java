@@ -41,7 +41,7 @@
 14. [Find Mode In Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
 15. [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/)
 16. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)
-17. [Range Sum of BST](https://leetcode.com/problems/diameter-of-binary-tree/description/)
+17. [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)
 
 ### Heaps
 1. [Maximize sum of array after K negotions](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)
