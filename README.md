@@ -24,6 +24,25 @@
 
 10. Write a program to input principal, time, and rate (P, T, R) from the user and find Simple Interest.
 
+### Trees
+1. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
+2. [Same Tree](https://leetcode.com/problems/same-tree/description/)
+3. [Symmetric tree](https://leetcode.com/problems/symmetric-tree/description/)
+4. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+5. [Convert Sorted Array To Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
+6. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
+7. [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
+8. [Path Sum](https://leetcode.com/problems/path-sum/description/)
+9. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
+10. [Binary Tree PostOrder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
+11. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
+12. [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)
+13. [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
+14. [Find Mode In Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
+15. [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/)
+16. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)
+17. [Range Sum of BST](https://leetcode.com/problems/diameter-of-binary-tree/description/)
+
 ### Heaps
 1. [Maximize sum of array after K negotions](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)
 2. [Minimum cost of ropes](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
