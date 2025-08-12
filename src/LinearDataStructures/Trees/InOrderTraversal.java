@@ -3,16 +3,6 @@ package Trees;
 import java.util.ArrayList;
 import java.util.Stack;
 
-class TreeNode{
-    int data;
-    TreeNode left, right;
-
-    TreeNode(int data){
-        this.data = data;
-        this.left = this.right = null;
-    }
-}
-
 public class InOrderTraversal {
 
     private static final ArrayList<Integer> list = new ArrayList<>();
