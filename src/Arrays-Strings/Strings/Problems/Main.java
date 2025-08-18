@@ -40,14 +40,14 @@ public class Main {
 
         MyHashSet<Integer> set = new MyHashSet<>();
         set.add(12);
-        set.add(12);
         set.add(11);
         set.add(13);
-        System.out.println(set.size());
+        set.add(13);
+        System.out.println(set.toString());
 
         MyHashSet<Double> doubleSet = new MyHashSet<>();
         doubleSet.add(3.24d);
-        doubleSet.
+        doubleSet.add(4.12);
         System.out.println(doubleSet.size());
 
 
