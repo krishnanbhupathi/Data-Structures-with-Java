@@ -1,6 +1,7 @@
 package Strings.Problems;
 
 import HashMaps.MyHashMap;
+import HashMaps.MyHashSet;
 import Strings.MyArrayList;
 
 public class Main {
@@ -36,6 +37,21 @@ public class Main {
         System.out.println("After removing size "+map.size()); // 2
         map.put("Orange", 9);
         System.out.println(map.keySet());
+
+        MyHashSet<Integer> set = new MyHashSet<>();
+        set.add(12);
+        set.add(12);
+        set.add(11);
+        set.add(13);
+        System.out.println(set.size());
+
+        MyHashSet<Double> doubleSet = new MyHashSet<>();
+        doubleSet.add(3.24d);
+        doubleSet.
+        System.out.println(doubleSet.size());
+
+
+
 
     }
 }
